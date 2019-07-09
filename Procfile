@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath myproject myproject.wsgi
+web: gunicorn --pythonpath Home Home.wsgi
