@@ -25,7 +25,7 @@ SECRET_KEY = 'qiydre)o%ntm&bts=*2p^3&fl9pvt5%3=1mhx5db405r$#3wp%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['agile-spire-66165.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
